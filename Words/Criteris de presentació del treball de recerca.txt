@@ -1,0 +1,4 @@
+Lletra:
+	Títol 1: Calibrí cos, 14, negreta
+	Títol 2: Calibrí cos, 12, negreta
+	Text: Caalibrí cos, 12
